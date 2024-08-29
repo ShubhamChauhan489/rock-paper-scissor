@@ -82,7 +82,7 @@ img {
       width: 100px;
       height: 100px;
     }
-    .msg-container{
+    #msg{
         font-size: 12px;
     }
   }
