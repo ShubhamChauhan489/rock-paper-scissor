@@ -82,5 +82,8 @@ img {
       width: 100px;
       height: 100px;
     }
+    .msg-container{
+        font-size: 12px;
+    }
   }
 
